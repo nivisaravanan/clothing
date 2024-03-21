@@ -1,0 +1,83 @@
+.sidebar{
+  width: 15%;
+  height: 450px;
+  line-height: 2;
+  
+  box-shadow: 0 14px 28px rgba(253, 0, 0, 0.25),
+                0 10px 10px rgba(253, 1, 1, 0.22);
+}
+.slide-name{
+  font-size: 18px;
+  font-weight: 700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+  background: white;
+}
+ li {
+  list-style: none;
+  background-color: white;
+  
+}
+.sidebar h2{
+  color: blueviolet;
+  text-align: center;
+}
+.btn{
+  border: none;
+  text-decoration: none;
+}
+.product-list{
+  width: 70%;
+  height: 530px;
+  /* border: groove; */
+  float:left;
+  margin-top: -450px;
+  margin-left: 300px;
+  
+}
+.product-img{
+  width: 40%;
+  height: 500px;
+  /* border: groove; */
+  float: left;
+  margin-top: 0;
+  
+}
+.product-content h3{
+color: black;
+font-size: 20px;
+}
+.product-content h5, h4{
+  font-size: 17px;
+  font-weight: 400;
+}
+.product-content h6{
+
+  font-size: 18px;
+}
+.product-content .product-name{
+  font-weight: 600;
+  font-size: 20px;
+}
+.footer{
+  margin-top: 80px;
+}
+.head{
+  color: white;
+  background-color: #122642;
+  text-align: center;
+  font-family:cursive;
+}
+.line, .copy{
+  text-align: center;
+  font-weight: 500;
+  background-color: #0d1d33;
+  color: white;
+  padding: 20px;
+
+}
+
+
+
+
